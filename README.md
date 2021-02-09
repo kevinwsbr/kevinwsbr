@@ -3,6 +3,6 @@
 
 ### About me
 
--  **Specialty:** Front-End Development
+-  **Specialty:** Web Development
 -  **Languages:** JavaScript, PHP, Kotlin
 -  **Organization:** LCCV/UFAL
